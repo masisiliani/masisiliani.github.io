@@ -27,25 +27,30 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
+  linkedin: masisiliani
+  medium: marcelasisiliani
+  twitter: ma_sisiliani
+  instagram: ma_sisiliani
+  imasters: back-end/golang-como-ler-um-arquivo-json
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # linkedin: your_username
-  # medium: @your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
   # youtube: your_username
   # vk: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: .NET C# 
+    web_url: https://docs.microsoft.com/pt-br/dotnet/csharp/
+    image_url: https://docs.microsoft.com/media/logos/logo_CSharp.svg
 
-  - name: Web design
+  - name: Go Language
+    web_url: https://blog.golang.org/gopher
+    image_url: https://raw.githubusercontent.com/github/explore/424902f9441eeb28663ad3f45e25398ac3445c79/topics/go/go.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Python 
+    web_url: https://www.python.org/
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+  

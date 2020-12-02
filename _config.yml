@@ -29,9 +29,9 @@ projects:
 
 social_media:
   linkedin: masisiliani
-  medium: marcelasisiliani
-  twitter: ma_sisiliani
-  instagram: ma_sisiliani
+  medium: masisiliani
+  twitter: masisiliani
+  instagram: masisiliani
   imasters: back-end/golang-como-ler-um-arquivo-json
   # behance: your_username
   # dribbble: your_username
@@ -53,4 +53,8 @@ topics:
   - name: Python 
     web_url: https://www.python.org/
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
+    
+  - name: Ruby 
+    web_url: https://www.ruby-lang.org/en/
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ruby/ruby.png
   
